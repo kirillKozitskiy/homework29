@@ -1,4 +1,4 @@
-package SRP;
+package HW29.SRP;
 
 public class Ship {
     public void swim(){

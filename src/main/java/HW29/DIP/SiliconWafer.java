@@ -1,6 +1,5 @@
-package DIP;
+package HW29.DIP;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class SiliconWafer {

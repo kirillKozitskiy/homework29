@@ -1,4 +1,4 @@
-package DIP;
+package HW29.DIP;
 
 public class Photolithography implements Robot{
     @Override

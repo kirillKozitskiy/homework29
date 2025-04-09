@@ -1,4 +1,4 @@
-package ISP;
+package HW29.ISP;
 
 public class TeamLead implements Programmer, Manager{
     @Override

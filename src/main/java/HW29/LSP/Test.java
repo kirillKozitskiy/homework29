@@ -1,4 +1,4 @@
-package LSP;
+package HW29.LSP;
 
 public class Test {
     public static void main(String[] args) {

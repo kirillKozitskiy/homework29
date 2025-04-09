@@ -1,4 +1,4 @@
-package LSP;
+package HW29.LSP;
 
 public class Elephant implements Herbivorous{
 
